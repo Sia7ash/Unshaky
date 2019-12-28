@@ -6,24 +6,26 @@
   Copyright © 2019 Nested Error. All rights reserved.
 */
 
-"Version" = "Version: %@";
+"Version" = "%@ :نسخه";
 
-"Overall Statistic" = "Dismissed %d shaky presses";
+"Overall Statistic" = "فشار داده شده %d بستن تعداد";
 
-"Configuration Window Title" = "Configure Unshaky";
+"Configuration Window Title" = "Unshaky تنظیمات";
 
-"Accessibility Help" = "Unshaky needs accessibility permission to work. Right now, Unshaky will attempt to open this panel for you. If it does not open automatically, you have to go to: System Preferences -> Security & Privacy -> Privacy (Tab) -> Accessibility (Left panel). \n\nWhen you have the panel open, add and check the Unshaky.app. ";
+"Accessibility Help" = "اجازه های لازم را بدهید Unshaky.app برنامه برای اجرا نیاز به تائیدیه دارد.در حال حاضر این پنل برای شما باز خواهد شد ، در صورت باز نشدن به صورت خودکار ، به مسیر زیر رفته و به
+ \n\nSystem Preferences -> Security & Privacy -> Privacy (Tab) 
+-> Accessibility (Left panel).";
 
-"Invalid Delay" = "\"%@\" is not a valid delay. Please input an integer value.";
+"Invalid Delay" = " مقدار \"%@\"صحیح نیست ، لطفا زمان مکث درست را وارد کنید";
 
-"Paste the configuration here" = "Paste the configuration here";
+"Paste the configuration here" = "تنظیمات را اینجا وارد کنید";
 
-"Invalid inputs" = "Invalid inputs";
+"Invalid inputs" = "داده های ورودی نادرست";
 
-"Invalid inputs, length does not match" = "Invalid inputs, length does not match";
+"Invalid inputs, length does not match" = "داده های ورودی نادرست است ، طول نوشته نادرست است";
 
-"Temporarily disabled by other software" = "Temporarily disabled by other software";
+"Temporarily disabled by other software" = "به صورت موقت توسط برنامه دیگری غیرفعال شده";
 
-"Turn on" = "Turn on";
+"Turn on" = "روشن کردن برنامه";
 
-"Turn off" = "Turn off";
+"Turn off" = "خاموش کردن برنامه";
